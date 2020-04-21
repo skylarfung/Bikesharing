@@ -1,3 +1,14 @@
+#ignore data
+201908-citibike-tripdata.csv
+mcdonalds.geojson
+QuickFacts Apr-19-2020 nyc & des moines.csv
+~Challenge__13248.twbr
+~Challenge__2552.twb
+~Challenge__2552.twbr
+mcdonalds.hyper
+201908-citibike-tripdata.hyper
+QuickFacts Apr-19-2020 nyc & des moines.hyper
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
